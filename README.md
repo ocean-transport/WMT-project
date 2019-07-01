@@ -10,3 +10,6 @@ Close box model budget for:
 4. In-situ density($\rho$)
 5. Empirical neutral density ($\gamma_{n}$)
 6. Thermodynamic neutral density ($\gamma_{t}$)
+
+### Part 2 - WMT Budget
+Same budget idea for aforementioned steps, but with moving coordinates.
