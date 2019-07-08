@@ -1,4 +1,4 @@
-# Water-mass Transformation Framework
+# Water-mass Transformation Framework using current models (SOSE & ECCOv4)
 
 ## Project Steps: Two parts
 
