@@ -5,7 +5,7 @@ using current models (SOSE & ECCOv4)
 
 ### Part 1 - Regional (box) Budget
 Close box model budget for:
-1. Heat ($\theta$)
+1. Heat (`$\theta$`)
 2. Salinity (S)
 3. Reference densities ($\sigma$)
 4. In-situ density($\rho$)
