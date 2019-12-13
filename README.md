@@ -14,3 +14,15 @@ Close box model budget for:
 
 ### Part 2 - WMT Budget
 Same budget idea for aforementioned steps, but with moving coordinates.# WMT-project
+
+-------------------------------------------------------------------------------------------------------------
+Side note: 
+* To switch your directory to a different git repository:
+- If using SSH: `$ git remote set-url origin git@github.com:stb2145/WMT-project.git`
+- If using HTTPS: `$ git remote set-url origin https://github.com/stb2145/WMT-project.git`
+* TO check which repo your directory is connected to:
+- `git remote -v` OR
+- `git config -l`
+* To add a whole directory to a repo: 
+- `cd` to the directory
+- `git add *`
