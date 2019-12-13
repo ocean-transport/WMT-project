@@ -13,4 +13,4 @@ Close box model budget for:
 6. Thermodynamic neutral density ($\gamma_{t}$)
 
 ### Part 2 - WMT Budget
-Same budget idea for aforementioned steps, but with moving coordinates.
+Same budget idea for aforementioned steps, but with moving coordinates.# WMT-project
