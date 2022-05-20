@@ -5,6 +5,8 @@ Variability in the atmosphere has the potential to modify all aspects of the com
 
 The aim here is to explore WMT variability through Walin’s classic WMT framework and through the lens of ocean model-based reanalysis. Ocean models are a useful tool in studying regions, such as the WG, that lack consistent observations, and for investigating physical mechanisms that drive water mass transformation variability. The three ocean reanalysis products used are ECCOv4r3, SOSE and SODA.
 
+Project has been submitted to Ocean Science at EGUSphere. The preprint doi link is [here](https://doi.org/10.5194/egusphere-2022-129).
+
 
 ## Project Steps: Two parts
 
